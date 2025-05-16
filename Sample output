@@ -1,0 +1,21 @@
+--- Enter Road and Driver Details for Accident Prediction ---
+
+
+Weather_Condition options: ['Clear' 'Rainy' 'Fog' 'Snow']
+Enter Weather_Condition: Clear
+
+Road_Surface options: ['Dry' 'Wet' 'Icy']
+Enter Road_Surface: Dry
+
+Light_Condition options: ['Daylight' 'Darkness - Lights On' 'Darkness - No Lights']
+Enter Light_Condition: Daylight
+
+Vehicle_Type options: ['Car' 'Truck' 'Motorcycle' 'Bus']
+Enter Vehicle_Type: Car
+
+Driver_Age (numeric): 32  
+Driver_Experience (numeric): 5  
+Speed_Limit (numeric): 60  
+Traffic_Density (numeric): 3  
+
+🚦 Prediction: Accident is UNLIKELY
